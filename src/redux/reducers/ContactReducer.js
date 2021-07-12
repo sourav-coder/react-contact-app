@@ -1,9 +1,9 @@
 const initialState = [
     {
         id:0,
-        name:"Sourav Sarkar",
+        name:"Karan Sarkar",
         email:"sample1@gmail.com",
-        phno:8017289046
+        phno:2489469615
     },
     {
         id:1,
