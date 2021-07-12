@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+# File structure
+    components
+    containers - map betw services and components
+    services
+        actions
+        reducer 
+            Rootreducer
+            reducer
+        constant.js
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
